@@ -1,1 +1,14 @@
 
+{
+  "name": "superon-app-ui",
+  "version": "6.20.2",
+  "description": "Youtube skill",
+  "main": "index.js",
+  "author": "Johnny",
+  "license": "ISC",
+  "homepage": "",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
